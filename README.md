@@ -1,7 +1,4 @@
-# Machine-Learning
-A repository for Machine Learning concepts and implementations
-
-### Implementing a Neural Netwrok from scratch with RMSprop
+### Implemented a Neural Netwrok from scratch with RMSprop
 * Network architecture:   
 Input layer    
 Dense hidden layer with 512 neurons, using relu as the activation function  
